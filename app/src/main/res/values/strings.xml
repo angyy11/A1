@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">A1</string>
+
+    <string name="toast_message">Hello!!!!</string>
+    <!--Now Showing & Popular-->
+    <string name="my_hero_academia">MY Hero\nAcademia:\nHeros Rising</string>
+    <string name="hitman">Hitman :\nAgent Jun\n2020</string>
+    <string name="jumanji">Jumanji :\nThe Next Level</string>
+    <string name="digimon">Digimon Adventure :\nLast Evolution\nKizuna</string>
+    <string name="underwater">Underwater</string>
+    <string name="baba_yaga">Baba Yaga :\nTerror of the\nDark Forest</string>
+    <string name="fantasy_island">Fantasy Island</string>
+    <string name="onward">Onward</string>
+    <string name="the_old_guard">The Old Guard</string>
+    <string name="howling_village">Howling Village</string>
+    <string name="bloodshot">Bloodshot</string>
+    <string name="the_grudge">The Grudge</string>
+    <string name="black_water">Black Water :\nAbyss</string>
+    <string name="the_jack_in_the_box">The Jack In The Box</string>
+    <string name="scoob">Scoob!</string>
+    <string name="a_choo">A Choo</string>
+    <string name="demon_slayer_party">Demon Slayer Party</string>
+    <!-- Title Movies-->
+    <string name="title_now_showing">Now Showing</string>
+    <string name="title_coming_soon">Coming Soon</string>
+    <string name="title_popular">Popular</string>
+</resources>
